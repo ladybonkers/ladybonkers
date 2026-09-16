@@ -6,7 +6,7 @@
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>‧₊˚ ☁️⋅🎓⋆ <strong> Software Engineering </strong> - FIAP </li>
+    <li>‧₊˚ ☁️⋅🎓⋆ <strong> Computer Science </strong> - UNIVAP </li>
     <li>‧₊˚ ☁️⋅🪐༘⋆ <strong> Software Developer | Cybersecurity Analyst </strong></li>
     <li>‧₊˚ ☁️⋅💫⋆ <strong> Main tech stack: </strong> Python and C++ </li>
     <li>‧₊˚ ☁️⋅✨⋆ <strong> Bilingual: </strong> English and Portuguese (Native) </li>
